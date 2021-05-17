@@ -1,0 +1,10 @@
+INSERT INTO myStore.`order_details`(vendor_id, customer_id, client_address_id, parcel_number, gross_total, net_total) VALUES (2,5, 2, "2984178641211", 91, 91);
+INSERT INTO myStore.`order_details`(vendor_id, customer_id, client_address_id, parcel_number, gross_total, net_total) VALUES (2,5, 7, "5448419466805", 118, 118);
+INSERT INTO myStore.`order_details`(vendor_id, customer_id, client_address_id, parcel_number, gross_total, net_total) VALUES (5,6, 4, "9616153778133", 149, 149);
+INSERT INTO myStore.`order_details`(vendor_id, customer_id, client_address_id, parcel_number, gross_total, net_total) VALUES (8,6, 13, "1231596282740", 103, 103);
+INSERT INTO myStore.`order_details`(vendor_id, customer_id, client_address_id, parcel_number, gross_total, net_total) VALUES (1,2, 5, "7025083311945", 196, 196);
+INSERT INTO myStore.`order_details`(vendor_id, customer_id, client_address_id, parcel_number, gross_total, net_total) VALUES (3,2, 11, "5216883357703", 111, 111);
+INSERT INTO myStore.`order_details`(vendor_id, customer_id, client_address_id, parcel_number, gross_total, net_total) VALUES (6,4, 12, "2524015749566", 55, 55);
+INSERT INTO myStore.`order_details`(vendor_id, customer_id, client_address_id, parcel_number, gross_total, net_total) VALUES (10,4, 14, "7061039828518", 60, 60);
+INSERT INTO myStore.`order_details`(vendor_id, customer_id, client_address_id, parcel_number, gross_total, net_total) VALUES (4,7, 6, "5075211169162", 142, 142);
+INSERT INTO myStore.`order_details`(vendor_id, customer_id, client_address_id, parcel_number, gross_total, net_total) VALUES (9,7, 9, "1593409820014", 109, 109);

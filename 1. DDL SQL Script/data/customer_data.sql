@@ -1,0 +1,10 @@
+INSERT INTO myStore.`customer`(fullname_client, email_id, mobile_no_client, birthdate_client) VALUES ("Bertrand Renard","Bertrand Renard",0700401786,"1980-05-31");
+INSERT INTO myStore.`customer`(fullname_client, email_id, mobile_no_client, birthdate_client) VALUES ("Christelle Breton","Christelle Breton",0700812682,"1964-05-08");
+INSERT INTO myStore.`customer`(fullname_client, email_id, mobile_no_client, birthdate_client) VALUES ("Charlotte-Victoire Gregoire","Charlotte-Victoire Gregoire",0267775166,"1961-01-12");
+INSERT INTO myStore.`customer`(fullname_client, email_id, mobile_no_client, birthdate_client) VALUES ("Richard Meyer-Guibert","Richard Meyer-Guibert",0559626738,"1933-05-24");
+INSERT INTO myStore.`customer`(fullname_client, email_id, mobile_no_client, birthdate_client) VALUES ("Rémy Pottier","Rémy Pottier",0443461318,"1943-05-26");
+INSERT INTO myStore.`customer`(fullname_client, email_id, mobile_no_client, birthdate_client) VALUES ("Denise Leroy","Denise Leroy",0700424847,"1924-05-24");
+INSERT INTO myStore.`customer`(fullname_client, email_id, mobile_no_client, birthdate_client) VALUES ("Élodie-Anaïs David","Élodie-Anaïs David",0110618578,"1948-10-22");
+INSERT INTO myStore.`customer`(fullname_client, email_id, mobile_no_client, birthdate_client) VALUES ("Nathalie Guillon de Leconte","Nathalie Guillon de Leconte",0695250066,"1984-07-19");
+INSERT INTO myStore.`customer`(fullname_client, email_id, mobile_no_client, birthdate_client) VALUES ("Émilie Lemonnier","Émilie Lemonnier",0631952888,"1921-06-01");
+INSERT INTO myStore.`customer`(fullname_client, email_id, mobile_no_client, birthdate_client) VALUES ("Rémy Bodin","Rémy Bodin",0438216858,"1942-03-28");

@@ -1,0 +1,14 @@
+INSERT INTO myStore.`articles`(name_article, id_cat_article, code_article, unit_price, id_vendor) VALUES ("Garden cleaner", 1, "IMmd-01968254", 50, 1);
+INSERT INTO myStore.`articles`(name_article, id_cat_article, code_article, unit_price, id_vendor) VALUES ("screw driver", 2, "Xkla-49569312", 64, 3);
+INSERT INTO myStore.`articles`(name_article, id_cat_article, code_article, unit_price, id_vendor) VALUES ("lock opener", 2, "rsmg-45923648", 172, 4);
+INSERT INTO myStore.`articles`(name_article, id_cat_article, code_article, unit_price, id_vendor) VALUES ("Bathroom tile rust remover", 3, "pUnJ-96184294", 186, 4);
+INSERT INTO myStore.`articles`(name_article, id_cat_article, code_article, unit_price, id_vendor) VALUES ("Shower sheet", 3, "HNFg-66498017", 61, 4);
+INSERT INTO myStore.`articles`(name_article, id_cat_article, code_article, unit_price, id_vendor) VALUES ("Soap holder", 3, "wVgY-93479266", 50, 1);
+INSERT INTO myStore.`articles`(name_article, id_cat_article, code_article, unit_price, id_vendor) VALUES ("study lamp", 9, "JhRl-48975603", 22, 3);
+INSERT INTO myStore.`articles`(name_article, id_cat_article, code_article, unit_price, id_vendor) VALUES ("Desk Organiser", 9, "dkdI-53788891", 192, 3);
+INSERT INTO myStore.`articles`(name_article, id_cat_article, code_article, unit_price, id_vendor) VALUES ("Cable holder", 14, "vDBD-53510881", 155, 3);
+INSERT INTO myStore.`articles`(name_article, id_cat_article, code_article, unit_price, id_vendor) VALUES ("Frame holder beam", 14, "VCrn-67187407", 20, 5);
+INSERT INTO myStore.`articles`(name_article, id_cat_article, code_article, unit_price, id_vendor) VALUES ("Leakage resistance tape", 13, "ZhJo-83888126", 63, 1);
+INSERT INTO myStore.`articles`(name_article, id_cat_article, code_article, unit_price, id_vendor) VALUES ("Wood cutting marker", 6, "jIHW-31127865", 119, 1);
+INSERT INTO myStore.`articles`(name_article, id_cat_article, code_article, unit_price, id_vendor) VALUES ("4x stroke Painting brush", 1, "WHkn-42817288", 49, 7);
+INSERT INTO myStore.`articles`(name_article, id_cat_article, code_article, unit_price, id_vendor) VALUES ("Alexa compatability kit", 8, "diGW-57846244", 6, 3);

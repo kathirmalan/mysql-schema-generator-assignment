@@ -1,0 +1,14 @@
+INSERT INTO myStore.`article_category`(cat_name) VALUES ("Garden");
+INSERT INTO myStore.`article_category`(cat_name) VALUES ("Tools");
+INSERT INTO myStore.`article_category`(cat_name) VALUES ("Bathroom");
+INSERT INTO myStore.`article_category`(cat_name) VALUES ("Kitchen");
+INSERT INTO myStore.`article_category`(cat_name) VALUES ("Storage / Arragement");
+INSERT INTO myStore.`article_category`(cat_name) VALUES ("Carpentry");
+INSERT INTO myStore.`article_category`(cat_name) VALUES ("Construction");
+INSERT INTO myStore.`article_category`(cat_name) VALUES ("Decorating");
+INSERT INTO myStore.`article_category`(cat_name) VALUES ("Lighting");
+INSERT INTO myStore.`article_category`(cat_name) VALUES ("Drugstore");
+INSERT INTO myStore.`article_category`(cat_name) VALUES ("Painting");
+INSERT INTO myStore.`article_category`(cat_name) VALUES ("Electricity");
+INSERT INTO myStore.`article_category`(cat_name) VALUES ("Heating and Plumbing");
+INSERT INTO myStore.`article_category`(cat_name) VALUES ("Hardware");

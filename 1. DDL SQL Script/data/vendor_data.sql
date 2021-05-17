@@ -1,0 +1,10 @@
+INSERT INTO myStore.`vendor`(vendor_name, code_vendor) VALUES ("Mercier et Fils","4756283368929");
+INSERT INTO myStore.`vendor`(vendor_name, code_vendor) VALUES ("Masson Fouquet S.A.","0374556412656");
+INSERT INTO myStore.`vendor`(vendor_name, code_vendor) VALUES ("Peltier","1062744409814");
+INSERT INTO myStore.`vendor`(vendor_name, code_vendor) VALUES ("Munoz Bazin et Fils","5149945364343");
+INSERT INTO myStore.`vendor`(vendor_name, code_vendor) VALUES ("Simon SARL","0547042111306");
+INSERT INTO myStore.`vendor`(vendor_name, code_vendor) VALUES ("Martin","5410464730545");
+INSERT INTO myStore.`vendor`(vendor_name, code_vendor) VALUES ("Dupuis David S.A.R.L.","9998410003487");
+INSERT INTO myStore.`vendor`(vendor_name, code_vendor) VALUES ("Blanc","1339572415738");
+INSERT INTO myStore.`vendor`(vendor_name, code_vendor) VALUES ("Dijoux S.A.","5519826678966");
+INSERT INTO myStore.`vendor`(vendor_name, code_vendor) VALUES ("Riou SA","4269178744086");
